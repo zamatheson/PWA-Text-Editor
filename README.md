@@ -1,1 +1,2 @@
 # PWA-Text-Editor
+JATE is a text-editing, Progressive Web Application that can be used online in a browser or it can be installed locally to your machine for offline fun! Use JATE to write notes, keep track of lists, and play with code! Simple and reliable, Just-Another-Text-Editor is here for your note-taking needs.
